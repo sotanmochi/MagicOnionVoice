@@ -1,5 +1,4 @@
 # MagicOnionVoice
-A voice chat implementation using MagicOnion and UnityOpus.  
 An example project for voice chat using MagicOnion and UnityOpus.
 
 <img src="MagicOnionVoice.gif" width="75%">
