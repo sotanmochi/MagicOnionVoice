@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="..\MagicOnionVoice.Unity\Assets\MagicOnionVoice\MagicOnionExamples\ServerShared\**\*.cs" LinkBase="LinkFromUnity" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MagicOnion" Version="2.2.0" />
+    <PackageReference Include="MagicOnion.Hosting" Version="2.2.0" />
+    <PackageReference Include="MessagePack" Version="1.7.3.7" />
+    <PackageReference Include="MessagePack.UnityShims" Version="1.7.3.7" />
+  </ItemGroup>
+
+</Project>
