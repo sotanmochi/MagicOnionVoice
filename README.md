@@ -10,7 +10,7 @@ An example project for voice chat using MagicOnion and UnityOpus.
 
 ## Third party assets
 The following assets are included in this project.
-- [UnityOpus v1.1.0](https://github.com/TyounanMOTI/UnityOpus/releases/tag/v1.1.0)
+- [UnityOpus v1.1.0](https://github.com/TyounanMOTI/UnityOpus/releases/tag/v1.1.0)  
   Licensed under the MIT License. Copyright (c) 2018 TyounanMOTI
 
 - [MagicOnion 2.2.0](https://github.com/Cysharp/MagicOnion/releases/tag/2.2.0)  
